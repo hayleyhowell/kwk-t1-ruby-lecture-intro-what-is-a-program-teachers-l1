@@ -1,5 +1,7 @@
 # What is a Program?
 
+learning to code with ruby
+
 ### Objectives:
 
 * Describe a program.
